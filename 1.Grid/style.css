@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(191, 191, 224);
+}
+.bg-1 {
+  border: 1px solid black;
+  padding: 30px;
+}
+.bg-2 {
+  border: 1px solid rgb(42, 29, 29);
+}
+.height {
+  min-height: 500px;
+}
+.bg {
+  padding: 10px;
+  background-color: #563d7c26;
+  border: 1px solid rgba(86, 61, 124, 0.2);
+}
+li {
+  list-style: none;
+  margin-left: 20px;
+}
+ul {
+  display: flex;
+  justify-content: end;
+}
