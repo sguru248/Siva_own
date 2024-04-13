@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+form {
+  padding: 10px;
+}
+form p {
+  padding: 20px;
+}
+
+#mapview {
+  width: 100%;
+  height: 75vh;
+  border: 2px solid blueviolet;
+}
+.hidden {
+  opacity: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.detail {
+  padding: 10px;
+}
+
+.detail h3 {
+  padding: 20px;
+}
